@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    basePath: "/gamebrain",
+    // basePath: "/gamebrain",
       images: {
       unoptimized: true,
     },
